@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>LỄ ĐƯỜNG - Kai Đinh</title>
+</head>
+<body>
+  <h2>🎵 LỄ ĐƯỜNG - Hải Long & Salim</h2>
+  <audio controls autoplay>
+    <source src="le-duong.mp3" type="audio/mpeg">
+    Trình duyệt không hỗ trợ nghe nhạc.
+  </audio>
+</body>
+</html>
